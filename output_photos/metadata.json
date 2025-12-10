@@ -1,0 +1,591 @@
+[
+    {
+        "filename": "dog.jpg",
+        "original_path": "input_photos/dog.jpg",
+        "new_paths": [
+            "output_photos/plant/dog.jpg",
+            "output_photos/dog breed/dog.jpg",
+            "output_photos/grass/dog.jpg",
+            "output_photos/outdoor/dog.jpg",
+            "output_photos/field/dog.jpg",
+            "output_photos/dog/dog.jpg"
+        ],
+        "caption": {
+            "text": "a dog running in a field of flowers",
+            "confidence": 0.8245124220848083
+        },
+        "categories": [
+            "plant",
+            "dog breed",
+            "grass",
+            "outdoor",
+            "field",
+            "dog"
+        ],
+        "tags": [
+            {
+                "name": "outdoor",
+                "confidence": 0.9973738193511963
+            },
+            {
+                "name": "grass",
+                "confidence": 0.9970653057098389
+            },
+            {
+                "name": "dog breed",
+                "confidence": 0.9491127729415894
+            },
+            {
+                "name": "dog",
+                "confidence": 0.92646723985672
+            },
+            {
+                "name": "field",
+                "confidence": 0.9250338077545166
+            },
+            {
+                "name": "plant",
+                "confidence": 0.9105507135391235
+            }
+        ],
+        "objects": [
+            {
+                "name": "dog",
+                "confidence": 0.906,
+                "bounding_box": {
+                    "x": 1165,
+                    "y": 1683,
+                    "w": 760,
+                    "h": 1242
+                }
+            }
+        ],
+        "analysis_date": "2025-12-10T09:37:14.303510"
+    },
+    {
+        "filename": "group.jpg",
+        "original_path": "input_photos/group.jpg",
+        "new_paths": [
+            "output_photos/laptop/group.jpg",
+            "output_photos/person/group.jpg",
+            "output_photos/smile/group.jpg",
+            "output_photos/clothing/group.jpg",
+            "output_photos/indoor/group.jpg",
+            "output_photos/sitting/group.jpg",
+            "output_photos/man/group.jpg",
+            "output_photos/group/group.jpg",
+            "output_photos/computer/group.jpg",
+            "output_photos/people/group.jpg",
+            "output_photos/human face/group.jpg"
+        ],
+        "caption": {
+            "text": "a group of people looking at a laptop",
+            "confidence": 0.9315863251686096
+        },
+        "categories": [
+            "laptop",
+            "person",
+            "smile",
+            "clothing",
+            "indoor",
+            "sitting",
+            "man",
+            "group",
+            "computer",
+            "people",
+            "human face"
+        ],
+        "tags": [
+            {
+                "name": "person",
+                "confidence": 0.998397707939148
+            },
+            {
+                "name": "clothing",
+                "confidence": 0.9966756105422974
+            },
+            {
+                "name": "human face",
+                "confidence": 0.9949432611465454
+            },
+            {
+                "name": "laptop",
+                "confidence": 0.988883376121521
+            },
+            {
+                "name": "smile",
+                "confidence": 0.9790362119674683
+            },
+            {
+                "name": "indoor",
+                "confidence": 0.9387954473495483
+            },
+            {
+                "name": "people",
+                "confidence": 0.9323157668113708
+            },
+            {
+                "name": "man",
+                "confidence": 0.924101710319519
+            },
+            {
+                "name": "group",
+                "confidence": 0.8559794425964355
+            },
+            {
+                "name": "computer",
+                "confidence": 0.8370634913444519
+            },
+            {
+                "name": "sitting",
+                "confidence": 0.8221611976623535
+            }
+        ],
+        "objects": [
+            {
+                "name": "person",
+                "confidence": 0.805,
+                "bounding_box": {
+                    "x": 2556,
+                    "y": 766,
+                    "w": 1543,
+                    "h": 2098
+                }
+            },
+            {
+                "name": "person",
+                "confidence": 0.918,
+                "bounding_box": {
+                    "x": 3948,
+                    "y": 792,
+                    "w": 1549,
+                    "h": 3697
+                }
+            },
+            {
+                "name": "person",
+                "confidence": 0.865,
+                "bounding_box": {
+                    "x": 2336,
+                    "y": 1672,
+                    "w": 1987,
+                    "h": 2907
+                }
+            },
+            {
+                "name": "Laptop",
+                "confidence": 0.871,
+                "bounding_box": {
+                    "x": 2638,
+                    "y": 4001,
+                    "w": 2377,
+                    "h": 1233
+                }
+            },
+            {
+                "name": "person",
+                "confidence": 0.955,
+                "bounding_box": {
+                    "x": 27,
+                    "y": 749,
+                    "w": 2615,
+                    "h": 4474
+                }
+            },
+            {
+                "name": "person",
+                "confidence": 0.949,
+                "bounding_box": {
+                    "x": 5228,
+                    "y": 1369,
+                    "w": 2676,
+                    "h": 3551
+                }
+            }
+        ],
+        "analysis_date": "2025-12-10T09:37:19.589764"
+    },
+    {
+        "filename": "house.jpg",
+        "original_path": "input_photos/house.jpg",
+        "new_paths": [
+            "output_photos/home/house.jpg",
+            "output_photos/mansion/house.jpg",
+            "output_photos/house/house.jpg",
+            "output_photos/farmhouse/house.jpg",
+            "output_photos/real estate/house.jpg",
+            "output_photos/window/house.jpg",
+            "output_photos/plant/house.jpg",
+            "output_photos/sky/house.jpg",
+            "output_photos/yard/house.jpg",
+            "output_photos/building/house.jpg",
+            "output_photos/villa/house.jpg",
+            "output_photos/grass/house.jpg",
+            "output_photos/historic house/house.jpg",
+            "output_photos/property/house.jpg",
+            "output_photos/porch/house.jpg",
+            "output_photos/outdoor/house.jpg",
+            "output_photos/tree/house.jpg",
+            "output_photos/estate/house.jpg",
+            "output_photos/landscaping/house.jpg"
+        ],
+        "caption": {
+            "text": "a house with a white railing and a lawn",
+            "confidence": 0.6790703535079956
+        },
+        "categories": [
+            "home",
+            "mansion",
+            "house",
+            "farmhouse",
+            "real estate",
+            "window",
+            "plant",
+            "sky",
+            "yard",
+            "building",
+            "villa",
+            "grass",
+            "historic house",
+            "property",
+            "porch",
+            "outdoor",
+            "tree",
+            "estate",
+            "landscaping"
+        ],
+        "tags": [
+            {
+                "name": "outdoor",
+                "confidence": 0.9972767233848572
+            },
+            {
+                "name": "building",
+                "confidence": 0.9949896335601807
+            },
+            {
+                "name": "plant",
+                "confidence": 0.9823987483978271
+            },
+            {
+                "name": "tree",
+                "confidence": 0.9753262996673584
+            },
+            {
+                "name": "sky",
+                "confidence": 0.951444685459137
+            },
+            {
+                "name": "grass",
+                "confidence": 0.934929370880127
+            },
+            {
+                "name": "house",
+                "confidence": 0.9323052167892456
+            },
+            {
+                "name": "home",
+                "confidence": 0.9151701331138611
+            },
+            {
+                "name": "porch",
+                "confidence": 0.9042494297027588
+            },
+            {
+                "name": "real estate",
+                "confidence": 0.8956211805343628
+            },
+            {
+                "name": "estate",
+                "confidence": 0.8926413655281067
+            },
+            {
+                "name": "window",
+                "confidence": 0.889356255531311
+            },
+            {
+                "name": "property",
+                "confidence": 0.8767404556274414
+            },
+            {
+                "name": "landscaping",
+                "confidence": 0.8720967769622803
+            },
+            {
+                "name": "farmhouse",
+                "confidence": 0.865443229675293
+            },
+            {
+                "name": "historic house",
+                "confidence": 0.8649728298187256
+            },
+            {
+                "name": "mansion",
+                "confidence": 0.8566800951957703
+            },
+            {
+                "name": "villa",
+                "confidence": 0.8444916009902954
+            },
+            {
+                "name": "yard",
+                "confidence": 0.841492235660553
+            }
+        ],
+        "objects": [],
+        "analysis_date": "2025-12-10T09:37:25.739377"
+    },
+    {
+        "filename": "beach.jpg",
+        "original_path": "input_photos/beach.jpg",
+        "new_paths": [
+            "output_photos/caribbean/beach.jpg",
+            "output_photos/date palm/beach.jpg",
+            "output_photos/palm/beach.jpg",
+            "output_photos/water/beach.jpg",
+            "output_photos/beach/beach.jpg",
+            "output_photos/roystonea/beach.jpg",
+            "output_photos/elaeis/beach.jpg",
+            "output_photos/plant/beach.jpg",
+            "output_photos/peach palm/beach.jpg",
+            "output_photos/arecales/beach.jpg",
+            "output_photos/tropics/beach.jpg",
+            "output_photos/desert palm/beach.jpg",
+            "output_photos/palm tree/beach.jpg",
+            "output_photos/sky/beach.jpg",
+            "output_photos/outdoor/beach.jpg",
+            "output_photos/tree/beach.jpg",
+            "output_photos/attalea speciosa/beach.jpg"
+        ],
+        "caption": {
+            "text": "a lifeguard stand on a beach with palm trees",
+            "confidence": 0.7739599347114563
+        },
+        "categories": [
+            "caribbean",
+            "date palm",
+            "palm",
+            "water",
+            "beach",
+            "roystonea",
+            "elaeis",
+            "plant",
+            "peach palm",
+            "arecales",
+            "tropics",
+            "desert palm",
+            "palm tree",
+            "sky",
+            "outdoor",
+            "tree",
+            "attalea speciosa"
+        ],
+        "tags": [
+            {
+                "name": "outdoor",
+                "confidence": 0.9988975524902344
+            },
+            {
+                "name": "beach",
+                "confidence": 0.9762794971466064
+            },
+            {
+                "name": "palm tree",
+                "confidence": 0.9730339050292969
+            },
+            {
+                "name": "arecales",
+                "confidence": 0.967117428779602
+            },
+            {
+                "name": "plant",
+                "confidence": 0.9635639190673828
+            },
+            {
+                "name": "tropics",
+                "confidence": 0.9604461193084717
+            },
+            {
+                "name": "sky",
+                "confidence": 0.9565659761428833
+            },
+            {
+                "name": "tree",
+                "confidence": 0.9453903436660767
+            },
+            {
+                "name": "attalea speciosa",
+                "confidence": 0.9249472618103027
+            },
+            {
+                "name": "caribbean",
+                "confidence": 0.9183218479156494
+            },
+            {
+                "name": "elaeis",
+                "confidence": 0.9019330739974976
+            },
+            {
+                "name": "date palm",
+                "confidence": 0.8890259265899658
+            },
+            {
+                "name": "roystonea",
+                "confidence": 0.8825021982192993
+            },
+            {
+                "name": "peach palm",
+                "confidence": 0.8816250562667847
+            },
+            {
+                "name": "water",
+                "confidence": 0.881210446357727
+            },
+            {
+                "name": "desert palm",
+                "confidence": 0.8624058365821838
+            },
+            {
+                "name": "palm",
+                "confidence": 0.8571001291275024
+            }
+        ],
+        "objects": [],
+        "analysis_date": "2025-12-10T09:37:31.953541"
+    },
+    {
+        "filename": "group2.jpg",
+        "original_path": "input_photos/group2.jpg",
+        "new_paths": [
+            "output_photos/person/group2.jpg",
+            "output_photos/clothing/group2.jpg",
+            "output_photos/comfort/group2.jpg",
+            "output_photos/lying/group2.jpg",
+            "output_photos/sitting/group2.jpg",
+            "output_photos/man/group2.jpg",
+            "output_photos/laying/group2.jpg",
+            "output_photos/grass/group2.jpg",
+            "output_photos/human face/group2.jpg",
+            "output_photos/outdoor/group2.jpg"
+        ],
+        "caption": {
+            "text": "a group of people lying on the ground",
+            "confidence": 0.8837584257125854
+        },
+        "categories": [
+            "person",
+            "clothing",
+            "comfort",
+            "lying",
+            "sitting",
+            "man",
+            "laying",
+            "grass",
+            "human face",
+            "outdoor"
+        ],
+        "tags": [
+            {
+                "name": "person",
+                "confidence": 0.9831572771072388
+            },
+            {
+                "name": "laying",
+                "confidence": 0.9822938442230225
+            },
+            {
+                "name": "human face",
+                "confidence": 0.979019045829773
+            },
+            {
+                "name": "clothing",
+                "confidence": 0.97111576795578
+            },
+            {
+                "name": "man",
+                "confidence": 0.9269018173217773
+            },
+            {
+                "name": "grass",
+                "confidence": 0.9110556244850159
+            },
+            {
+                "name": "comfort",
+                "confidence": 0.876194953918457
+            },
+            {
+                "name": "lying",
+                "confidence": 0.8704581260681152
+            },
+            {
+                "name": "outdoor",
+                "confidence": 0.8667354583740234
+            },
+            {
+                "name": "sitting",
+                "confidence": 0.8474221229553223
+            }
+        ],
+        "objects": [],
+        "analysis_date": "2025-12-10T09:37:35.363264"
+    },
+    {
+        "filename": "animal.jpg",
+        "original_path": "input_photos/animal.jpg",
+        "new_paths": [
+            "output_photos/sitting/animal.jpg",
+            "output_photos/window/animal.jpg",
+            "output_photos/animal/animal.jpg",
+            "output_photos/dog breed/animal.jpg",
+            "output_photos/indoor/animal.jpg",
+            "output_photos/dog/animal.jpg"
+        ],
+        "caption": {
+            "text": "a dog looking out a window",
+            "confidence": 0.8371086120605469
+        },
+        "categories": [
+            "sitting",
+            "window",
+            "animal",
+            "dog breed",
+            "indoor",
+            "dog"
+        ],
+        "tags": [
+            {
+                "name": "window",
+                "confidence": 0.9838746786117554
+            },
+            {
+                "name": "indoor",
+                "confidence": 0.909339427947998
+            },
+            {
+                "name": "dog breed",
+                "confidence": 0.8849002122879028
+            },
+            {
+                "name": "sitting",
+                "confidence": 0.8081564903259277
+            },
+            {
+                "name": "animal",
+                "confidence": 0.8049367666244507
+            }
+        ],
+        "objects": [
+            {
+                "name": "dog",
+                "confidence": 0.94,
+                "bounding_box": {
+                    "x": 307,
+                    "y": 1335,
+                    "w": 4055,
+                    "h": 2617
+                }
+            }
+        ],
+        "analysis_date": "2025-12-10T09:37:40.405379"
+    }
+]
